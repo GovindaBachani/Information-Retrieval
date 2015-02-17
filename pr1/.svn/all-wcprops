@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/cs6200s14/!svn/ver/828/govindab/pr1
+END
+stoplist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/cs6200s14/!svn/ver/828/govindab/pr1/stoplist.txt
+END
+term_index.zip
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cs6200s14/!svn/ver/780/govindab/pr1/term_index.zip
+END
+Read_Index.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/cs6200s14/!svn/ver/724/govindab/pr1/Read_Index.java
+END
+term_info.zip
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cs6200s14/!svn/ver/780/govindab/pr1/term_info.zip
+END
+StopWords.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cs6200s14/!svn/ver/828/govindab/pr1/StopWords.java
+END
+docids.zip
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/cs6200s14/!svn/ver/780/govindab/pr1/docids.zip
+END
+runParseDocIndex.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cs6200s14/!svn/ver/753/govindab/pr1/runParseDocIndex.sh
+END
+ParseDocIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cs6200s14/!svn/ver/724/govindab/pr1/ParseDocIndex.java
+END
+SampleObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/cs6200s14/!svn/ver/724/govindab/pr1/SampleObject.java
+END
+runParseFile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/cs6200s14/!svn/ver/753/govindab/pr1/runParseFile.sh
+END
+termids.zip
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/cs6200s14/!svn/ver/780/govindab/pr1/termids.zip
+END
+ParseFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cs6200s14/!svn/ver/724/govindab/pr1/ParseFile.java
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/cs6200s14/!svn/ver/754/govindab/pr1/ReadMe.txt
+END
+doc_index.zip
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cs6200s14/!svn/ver/780/govindab/pr1/doc_index.zip
+END
