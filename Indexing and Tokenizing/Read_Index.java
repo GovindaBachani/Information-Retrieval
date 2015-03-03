@@ -113,6 +113,9 @@ public class Read_Index {
 				totalWords+=length;
 				Words++;
 			}
+			else{
+				break;
+			}
 		}
 	
 		System.out.println("Listing for document:  "+docName);
